@@ -26,10 +26,8 @@ I am a self-taught professional in the software industry, based in the New York 
 🎯 Incorporating git and bash as part of a daily routine.  
 
 
-
 ## In Progress Projects:
 🚀 [URL Shortener](https://github.com/c0olade/url-shortener)
-  - Tools: Python, FastAPI, Docker, Amazon Web Services (EC2, S3, DynamoDB), Postman
 
 
 
