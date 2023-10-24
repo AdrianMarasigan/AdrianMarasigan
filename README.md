@@ -1,25 +1,6 @@
 ## About me
 I am a self-taught professional in the software industry, based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
 
-## Current Objectives:
-🚀 Developing software engineering best practices under guidance of senior engineers from big tech.  
-🎯 Improving my python implementation skills by solving coding challenges daily.  
-🎯 Incorporating git and bash as part of a daily routine.  
-
-## In Progress Projects:
-🚀 [URL Shortener](https://github.com/c0olade/url-shortener) - 
-  - Tools: Python, FastAPI, Docker, Amazon Web Services (EC2, S3, DynamoDB), Postman
-
-## Completed Projects:
-- [Floppy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)
-  - Python implementation of Floppy Bird using Pygame
-- [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)
-  - Python implementation to visualize sorting algorithms using the matplotlib library.
-- [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)
-  - Python script demonstrates AES-256 encryption and decryption using the pycryptodome library
-- [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)
-  - Simple AI chatbot created using Python, Flask, and the ChatterBot library
-
 ## Languages and Tools
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
@@ -37,3 +18,23 @@ I am a self-taught professional in the software industry, based in the New York 
 <!--
 <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/>
 -->
+
+
+## Current Objectives:
+🚀 Developing software engineering best practices under guidance of senior engineers from big tech.  
+🎯 Improving my python implementation skills by solving coding challenges daily.  
+🎯 Incorporating git and bash as part of a daily routine.  
+
+
+
+## In Progress Projects:
+🚀 [URL Shortener](https://github.com/c0olade/url-shortener)
+  - Tools: Python, FastAPI, Docker, Amazon Web Services (EC2, S3, DynamoDB), Postman
+
+
+
+## Completed Projects:
+✅ [Floppy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
+✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
+✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
+✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
