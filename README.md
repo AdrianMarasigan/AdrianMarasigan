@@ -2,11 +2,15 @@
 I am a self-taught professional in the software industry, based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
 
 ## Current Objectives:
-🚀 Building software engineering best practices by building projects under guidance of senior engineers from big tech. 
-🎯 Improving my python implementation skills by solving coding challenges daily.
-🎯 Incorporating git and bash as part of a daily routine.
+🚀 Developing software engineering best practices under guidance of senior engineers from big tech.  
+🎯 Improving my python implementation skills by solving coding challenges daily.  
+🎯 Incorporating git and bash as part of a daily routine.  
 
-## Projects:
+## In Progress Projects:
+🚀 [URL Shortener](https://github.com/c0olade/url-shortener) - 
+  - Tools: Python, FastAPI, Docker, Amazon Web Services (EC2, S3, DynamoDB), Postman
+
+## Completed Projects:
 - [Floppy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)
   - Python implementation of Floppy Bird using Pygame
 - [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)
