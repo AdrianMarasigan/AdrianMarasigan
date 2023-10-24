@@ -2,7 +2,6 @@
 I am a self-taught professional in the software industry, based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
 
 ## Languages and Tools
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/PowerShell_Core_6.0_icon.png/242px-PowerShell_Core_6.0_icon.png" alt="Windows Powershell" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
@@ -14,6 +13,7 @@ I am a self-taught professional in the software industry, based in the New York 
 
 <!--
 <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/>
+<a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/240px-Flask_logo.svg.png" alt="flask" width="40" height="40"/>
 -->
 
 
