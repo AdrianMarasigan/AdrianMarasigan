@@ -1,5 +1,10 @@
 ## About me
-Self-taught software engineer from the New York Metropolitan area. 5 years of experience in software development in project management, product management, and application support roles.
+I am a self-taught professional in the software industry, based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
+
+## Current Objectives:
+🚀 Building software engineering best practices by building projects under guidance of senior engineers from big tech. 
+🎯 Improving my python implementation skills by solving coding challenges daily.
+🎯 Incorporating git and bash as part of a daily routine.
 
 ## Projects:
 - [Floppy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)
