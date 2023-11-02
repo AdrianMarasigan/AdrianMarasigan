@@ -26,8 +26,6 @@ I am a self-taught professional in the software industry, based in the New York 
 ## In Progress Projects:
 🚀 [URL Shortener](https://github.com/c0olade/url-shortener)
 
-
-
 ## Completed Projects:
 ✅ [Floppy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
 ✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
