@@ -1,5 +1,5 @@
 ## About me
-I am a self-taught professional in the software industry, based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
+I'm currently focused on transitioning into an entry-level software engineering, data engineering, or data analytics role, either remote or based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
 
 ## Languages and Tools
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
@@ -17,14 +17,15 @@ I am a self-taught professional in the software industry, based in the New York 
 -->
 
 
-## Current Objectives:
-🚀 Developing software engineering best practices under guidance of senior engineers from big tech.  
-🎯 Improving my python implementation skills by solving coding challenges daily.  
-🎯 Incorporating git and bash as part of a daily routine.  
+🌟 Focused on Skill Development:
+- Software Engineering: Engaged in a mentorship program covering key areas, including Computer Science, Design Patterns, Data Structures, Algorithms, Object-Oriented Programming, Scalable Code Design, and Source Control Management.
+- Data Engineering: Exploring data engineering topics and tools to build data pipelines.
+- Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.
 
 
 ## In Progress Projects:
 🚀 [URL Shortener](https://github.com/c0olade/url-shortener)
+🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
 
 ## Completed Projects:
 ✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
