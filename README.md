@@ -24,7 +24,7 @@ I'm currently focused on transitioning into an entry-level software engineering,
 
 
 ## In Progress Projects:
-🚀 [URL Shortener](https://github.com/c0olade/url-shortener)
+🚀 [URL Shortener](https://github.com/c0olade/url-shortener)  
 🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
 
 ## Completed Projects:
