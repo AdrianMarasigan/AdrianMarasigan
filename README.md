@@ -1,5 +1,5 @@
 ## About me
-I'm currently focused on transitioning into an entry-level software engineering, data engineering, or data analytics role, either remote or based in the New York Metropolitan area. Over the past 5 years, I've gained extensive experience in software development through roles in project management, product management, and application support.
+I'm currently focused on transitioning into an entry-level software engineering, data engineering, or data analytics roles by building my skillset through self-learning, building projects, and practicing my code implementation. Prior to this, I worked in software development in project management, product management, and application support.
 
 ## Languages and Tools
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
