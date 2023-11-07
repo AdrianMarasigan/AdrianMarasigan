@@ -17,10 +17,10 @@ I'm currently focused on transitioning into an entry-level software engineering,
 -->
 
 
-🌟 Focused on Skill Development:
-- Software Engineering: Engaged in a mentorship program covering key areas, including Computer Science, Design Patterns, Data Structures, Algorithms, Object-Oriented Programming, Scalable Code Design, and Source Control Management.
-- Data Engineering: Exploring data engineering topics and tools to build data pipelines.
-- Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.
+## Focused on Skill Development:
+🌟 Software Engineering: Engaged in a mentorship program covering key areas, including Computer Science, Design Patterns, Data Structures, Algorithms, Object-Oriented Programming, Scalable Code Design, and Source Control Management.  
+🌟 Data Engineering: Exploring data engineering topics and tools to build data pipelines.  
+🌟 Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.  
 
 
 ## In Progress Projects:
