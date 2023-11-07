@@ -22,13 +22,12 @@ I'm currently focused on transitioning into an entry-level software engineering,
 🌟 Data Engineering: Exploring data engineering topics and tools to build data pipelines.  
 🌟 Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.  
 
+## Completed Projects:
+✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
+✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
+✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
+✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
 
 ## In Progress Projects:
 🚀 [URL Shortener](https://github.com/c0olade/url-shortener)  
 🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
-
-## Completed Projects:
-✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
-✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
-✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
-✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
