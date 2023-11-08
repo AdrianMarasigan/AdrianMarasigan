@@ -18,9 +18,9 @@ I'm currently focused on transitioning into an entry-level software engineering,
 
 
 ## Focused on Skill Development:
-🌟 Software Engineering: Engaged in a mentorship program covering key areas, including Computer Science, Design Patterns, Data Structures, Algorithms, Object-Oriented Programming, Scalable Code Design, and Source Control Management.  
-🌟 Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.  
-🌟 Database Design: Diving into database systems, including data modeling, entity relationship diagrams, normalization, and SQL querying, and incorporating these learnings into projects.
+🌟 Software Engineering: Engaged in a mentorship program covering key areas, including Computer Science, Design Patterns, Data Structures, Algorithms, Object-Oriented Programming, Scalable Code Design, and Source Control Management.   
+🌟 Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.   
+🌟 Database Design: Diving into database systems, including data modeling, entity relationship diagrams, normalization, and SQL querying, and incorporating these learnings into projects.  
 
 ## Completed Projects:
 ✅ [Serverless Web Scraping with AWS Lambda and BeautifulSoup](https://github.com/c0olade/Software-Engineering-Learnings/tree/main/Mini-Projects/Serverless%20Web%20Scraping%20with%20AWS%20Lambda%20and%20BeautifulSoup)  
