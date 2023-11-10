@@ -1,7 +1,7 @@
 ## About me
-I am a self-taught software engineer with 1 year of programming experience in Python. I'm also have 5 years of progressive experience in software project management, product management, and application support.
+I am a self-taught software engineer with 1 year of programming experience. I also have 5 years of progressive experience in software project management, product management, and application support.
 
-I am actively working on cloud technologies, specifically AWS (EC2, S3, RDS, DynamoDB, Lambda), and incorporating database design and management into my projects. I have dabbled in javascript (React), HTML, and CSS. 
+I am actively working on programming challenges, API development, cloud technologies, and database design. I have dabbled in javascript (React), Apex (Salesforce), HTML, and CSS. 
 
 ## Languages and Tools
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
