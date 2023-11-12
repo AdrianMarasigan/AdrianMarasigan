@@ -31,12 +31,13 @@ I am actively working on programming challenges, API development, cloud technolo
 🌟 Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.   
 🌟 Database Design: Diving into database systems, including data modeling, entity relationship diagrams, normalization, and SQL querying, and incorporating these learnings into projects.  
 
+## In Progress Projects:
+🚀 [AWS Services Mini-Projects](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main)
+🚀 [URL Shortener](https://github.com/c0olade/url-shortener)  
+🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
+
 ## Completed Projects:
 ✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
 ✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
 ✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
 ✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
-
-## In Progress Projects:
-🚀 [URL Shortener](https://github.com/c0olade/url-shortener)  
-🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
