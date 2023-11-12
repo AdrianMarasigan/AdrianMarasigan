@@ -32,7 +32,7 @@ I am actively working on programming challenges, API development, cloud technolo
 🌟 Database Design: Diving into database systems, including data modeling, entity relationship diagrams, normalization, and SQL querying, and incorporating these learnings into projects.  
 
 ## In Progress Projects:
-🚀 [AWS Mini-Projects](https://github.com/AdrianMarasigan/AWS-Mini-Projects/tree/main)
+🚀 [AWS Mini-Projects](https://github.com/AdrianMarasigan/AWS-Mini-Projects/tree/main)  
 🚀 [URL Shortener](https://github.com/c0olade/url-shortener)  
 🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
 
