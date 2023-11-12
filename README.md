@@ -37,7 +37,7 @@ I am actively working on programming challenges, API development, cloud technolo
 🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
 
 ## Completed Projects:
-✅ [2D RPG](https://github.com/AdrianMarasigan/2D-RPG) An RPG I built as a present to my wife. The [link](https://c0olade.itch.io/jens-game) to the actual game (Note that this should be played on mobile).  
+✅ [2D RPG built in PixiJS](https://github.com/AdrianMarasigan/2D-RPG) An RPG I built as a present to my wife. The [link](https://c0olade.itch.io/jens-game) to the actual game (Note that this should be played on mobile).  
 ✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
 ✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
 ✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
