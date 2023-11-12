@@ -8,7 +8,7 @@ I am actively working on programming challenges, API development, cloud technolo
 - Javascript
 - SQL
 - HTML/CSS
-- Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena SES)
+- Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena, SES)
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
