@@ -23,13 +23,15 @@ I am actively working on programming challenges, API development, cloud technolo
 
 <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/>
 <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/240px-Flask_logo.svg.png" alt="flask" width="40" height="40"/>
--->
+
 
 
 ## Focused on Skill Development:
 🌟 Software Engineering: Engaged in a mentorship program covering key areas, including Computer Science, Design Patterns, Data Structures, Algorithms, Object-Oriented Programming, Scalable Code Design, and Source Control Management.   
 🌟 Cloud Technologies: Delving into AWS cloud services and their integration into software and data engineering projects.   
 🌟 Database Design: Diving into database systems, including data modeling, entity relationship diagrams, normalization, and SQL querying, and incorporating these learnings into projects.  
+
+-->
 
 ## In Progress Projects:
 🚀 [AWS Mini-Projects](https://github.com/AdrianMarasigan/AWS-Mini-Projects/tree/main)  
