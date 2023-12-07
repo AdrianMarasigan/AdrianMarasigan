@@ -3,7 +3,7 @@ I am a self-taught software engineer with 5 years of progressive experience in s
 
 I am actively working on programming challenges, API development, cloud technologies, and database design. I have dabbled in javascript (React), Apex (Salesforce), HTML, and CSS.
 
-## Languages and Tools
+## Languages and Tools 
 - Python
 - Javascript
 - SQL
