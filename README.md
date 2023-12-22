@@ -1,15 +1,17 @@
 ## About me
 I am a self-taught software engineer with 5 years of progressive experience in software project management, product management, and application support.
  
-I am actively working on programming challenges, API development, cloud technologies, and database design. I have dabbled in javascript (React), Apex (Salesforce), HTML, and CSS. 
+I am actively working on programming challenges, API development, cloud technologies, and database design. I have dabbled in javascript (React), Apex (Salesforce), HTML, and CSS.
 
 ## Languages and Tools 
+- Java
 - Python
 - Javascript
 - SQL
 - HTML/CSS
 - Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena, SES)  
 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
 <a href="https://dev.w3.org/html5/spec-LC/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
