@@ -8,7 +8,8 @@ I am actively working on programming challenges (Python and Java), API developme
 - Python
 - Javascript
 - SQL
-- HTML/CSS
+- HTML
+- CSS (Bootstrap, SASS)
 - Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena, SES)  
 
 <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/242px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/>
