@@ -6,7 +6,7 @@ I am actively working on programming challenges (Python and Java), API developme
 ## Languages and Tools 
 - Java
 - Python
-- Javascript
+- Javascript (React)
 - SQL
 - HTML
 - CSS (Bootstrap, SASS)
