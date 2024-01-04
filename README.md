@@ -48,3 +48,4 @@ I am actively working on programming challenges (Python and Java), API developme
 ✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
 ✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
 ✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
+✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)
