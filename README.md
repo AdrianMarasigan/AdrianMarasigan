@@ -42,7 +42,7 @@ I am actively working on programming challenges (Python and Java), API developme
 🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
 
 ## Completed Projects:
-✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)
+✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)  
 ✅ [REST API in Flask](https://github.com/AdrianMarasigan/Software-Engineering-Learnings/blob/main/Mini-Projects/REST-API-Flask/README.md)  
 ✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
 ✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
