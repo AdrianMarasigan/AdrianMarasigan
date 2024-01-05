@@ -1,6 +1,4 @@
 ## About me
-As a self-taught software engineer with five years of dynamic experience in software project management, product management, and application support, I am deeply passionate about leveraging technology to enhance the daily lives of individuals. My journey in the field has equipped me with a comprehensive skill set, allowing me to seamlessly integrate innovation into projects and contribute to meaningful advancements in technology for the benefit of society. 
-
 I am actively working on programming challenges (Python and Java), API development, cloud technologies, and database design. I have dabbled in javascript (React), Apex (Salesforce), HTML, and CSS.
 
 ## Languages and Tools 
