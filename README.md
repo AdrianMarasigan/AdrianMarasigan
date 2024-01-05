@@ -42,10 +42,11 @@ I am actively working on programming challenges (Python and Java), API developme
 🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
 
 ## Completed Projects:
-✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)  
 ✅ [REST API in Flask](https://github.com/AdrianMarasigan/Software-Engineering-Learnings/blob/main/Mini-Projects/REST-API-Flask/README.md)  
 ✅ [Sorting Algorithm Visualizations in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Sorting%20Algorithm%20Visualizations)  
 ✅ [Flappy Bird Clone in Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Floppy%20Bird%20Clone)  
 ✅ [AES 256 encryption and decryption using Python](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/AES%20256%20encryption%20and%20decryption%20using%20Python)  
 ✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
 ✅ [2D RPG built in PixiJS](https://github.com/AdrianMarasigan/2D-RPG) A 2D RPG I built as a present to my wife. The [link](https://c0olade.itch.io/jens-game) to the actual game (Note that this should be played on mobile).  
+✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)   
+✅ [Scientifc Computing with Python](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Scientific%20Computing%20with%20Python)  
