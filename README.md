@@ -2,9 +2,10 @@
 I am actively working on programming challenges (Python and Java), API development, cloud technologies, and database design. I have experience in javascript (React, Node.js), Apex (Salesforce), HTML, and CSS.
 
 ## Languages and Tools 
-- Python (Flask)
-- Javascript (React, Node.js)
+- Python (Flask, FastAPI, Numpy, Pandas, Matplotlib, and Seaborn)
+- Javascript (React, Redux, Node.js, jQuery)
 - SQL
+- MongoDB
 - HTML
 - CSS (Bootstrap, SASS)
 - Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena, SES)
