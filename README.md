@@ -1,5 +1,5 @@
 ## About me
-I am actively working on programming challenges (Python and Java), API development, cloud technologies, and database design. I have dabbled in javascript (React), Apex (Salesforce), HTML, and CSS.
+I am actively working on programming challenges (Python and Java), API development, cloud technologies, and database design. I have experience in javascript (React, Node.js), Apex (Salesforce), HTML, and CSS.
 
 ## Languages and Tools 
 - Python
