@@ -47,4 +47,4 @@ I am actively working on programming challenges (Python and Java), API developme
 ✅ [Python Chatbot](https://github.com/c0olade/Software-Engineering-Journey/tree/main/Mini-Projects/Python%20Chatbot)  
 ✅ [2D RPG built in PixiJS](https://github.com/AdrianMarasigan/2D-RPG) A 2D RPG I built as a present to my wife. The [link](https://c0olade.itch.io/jens-game) to the actual game (Note that this should be played on mobile).  
 ✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)   
-✅ [Scientifc Computing with Python](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Scientific%20Computing%20with%20Python)  
+✅ [Scientifc Computing with Python](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Scientific%20Computing%20with%20Python)   
