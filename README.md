@@ -3,7 +3,7 @@ I am actively working on programming challenges (Python and Java), API developme
 
 ## Languages and Tools 
 - Python (Flask)
-- Javascript (React)
+- Javascript (React, Node.js)
 - SQL
 - HTML
 - CSS (Bootstrap, SASS)
