@@ -10,7 +10,7 @@ I am actively working on programming challenges, API development, cloud technolo
 - CSS (Bootstrap, SASS)
 - Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena, SES)
 - Java  
-
+ 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/242px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
 <a href="https://dev.w3.org/html5/spec-LC/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" alt="html5" width="40" height="40"/>
