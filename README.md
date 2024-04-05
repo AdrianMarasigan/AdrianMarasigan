@@ -5,7 +5,7 @@ I am actively working on programming challenges, API development, cloud technolo
 - Python (Flask, FastAPI, Numpy, Pandas, Matplotlib, and Seaborn)
 - Javascript (React, Redux, Node.js, jQuery)
 - SQL
-- MongoDB 
+- MongoDB
 - HTML
 - CSS (Bootstrap, SASS)
 - Amazon Web Services (Lambda, EC2, S3, RDS, DynamoDB, Athena, SES)
