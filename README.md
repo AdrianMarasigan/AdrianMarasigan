@@ -35,11 +35,6 @@ I am actively working on programming challenges, API development, cloud technolo
 
 -->
 
-## In Progress Projects:
-🚀 [AWS Mini-Projects](https://github.com/AdrianMarasigan/AWS-Mini-Projects/tree/main)  
-🚀 [URL Shortener](https://github.com/c0olade/url-shortener)  
-🚀 [Data Pipeline and Visualization](https://github.com/c0olade/data-pipeline)
-
 ## Completed Projects:
 ✅ [Scientifc Computing Projects with Python](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Scientific%20Computing%20with%20Python)   
 ✅ [Responsive Web Design Projects](https://github.com/AdrianMarasigan/freecodecamp/tree/main/Responsive%20Web%20Design)   
