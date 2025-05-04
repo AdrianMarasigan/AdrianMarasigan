@@ -1,5 +1,5 @@
 ## About me.
-I like to work on programming challenges and game development. My professional experience is on the product and project management side of software development. 
+I like to work on programming challenges and game development. My professional experience is on the product and project management side of software development.  
 
 ## Languages and Tools 
 - Python (Flask, FastAPI, Numpy, Pandas, Matplotlib, and Seaborn)
