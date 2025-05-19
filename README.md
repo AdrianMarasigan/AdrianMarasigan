@@ -1,4 +1,4 @@
-## About me
+## About me 
 I like to work on programming challenges and game development. My professional experience is on the product and project management side of software development.  
  
 ## Languages and Tools 
